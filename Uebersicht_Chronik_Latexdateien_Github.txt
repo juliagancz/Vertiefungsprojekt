@@ -1,0 +1,132 @@
+﻿
+Ordner: CORSAIR USB-Stick: Github_Latex/... oder auf dem Desktop vom Thinkpad
+Konvertierbar:
+TeX_Vorlage_12.4._J -> thesis_template
+TeX_Vorlage_14.4._1_J -> thesis_template
+TeX_Vorlage_14.4._2_J -> thesis_template !beim zweiten mal fehlermeldungen, aber trotzdem noch gefangen!
+TeX_Vorlage_14.4._3_J -> thesis_template
+TeX_Vorlage_17.4._A -> thesis_template
+
+Nicht konvertierbar:
+TeX_Vorlage_15.4._A -> thesis_template
+TeX_Vorlage_15.4._J -> thesis_template
+
+Abgleich pdf-.tex Datei:
+TeX_Vorlage_12.4._1_J -> thesis_template [Gleicher Stand wie vom 17.4._A ?]
+1 einleitung: stimmt überein [nicht überarbeitete Version, nicht aktuell]
+2 Theoretischer Hintergrund: stimmt überein [nicht überarbeitete Version (außer Viertelbrücke?), nicht aktuell, noch nicht fertig]
+3 Durchführung: stimmt überein /Julia
+4 Auswertung: stimmt überein
+5 Fazit: stimmt überein
+[Anhang? Abbildungsverzeichnis? Literaturverzeichnis?]
+
+Aktuälität checken [Einleitung]:
+TeX_Vorlage_12.4._J
+TeX_Vorlage_14.4._1_J
+TeX_Vorlage_14.4._2_J 
+TeX_Vorlage_14.4._3_J 
+TeX_Vorlage_15.4._A 
+TeX_Vorlage_15.4._J 
+TeX_Vorlage_17.4._A 
+-> alle nicht aktuell [Julias erste Version mit Fehlern]
+
+Einleitung aktuell:
+TeX_Vorlage_2 -> einleitung_alma
+
+TODO: 
+- aktualisierte Einleitung reinkopieren
+- Durchführung abgleichen!! Hier gibt es Unterschiede!
+
+10.5.19
+
+Aktuälität checken [Theoretischer Hintergrund]:
+TeX_Vorlage_12.4._J
+TeX_Vorlage_14.4._1_J
+TeX_Vorlage_14.4._2_J 
+TeX_Vorlage_14.4._3_J 
+TeX_Vorlage_15.4._A 
+TeX_Vorlage_15.4._J -> kaputt, nicht anzeigbar
+TeX_Vorlage_17.4._A 
+ gilt für alle:
+ 2.1 DMS: von Julia, mit Fehlern, nicht überarbeitet
+ 2.2 Spannungsversorgung: alles leer [obwohl Spannungsteiler, Inverter schonmal fertig waren]
+ 2.3 OPV: unfertig
+-> alle nicht aktuell [Julias erste Version mit Fehlern]
+
+Aktuälität checken [Durchführung]:
+-> aktuellste Variante: 15.4._A!
+TeX_Vorlage_12.4._J
+ 3.1 Simulation der Schaltung: überarbeitet
+ 3.1.1 Spannungsversorgung: überarbeitet
+ 3.1.2 Wheatstonebrücke: überarbeitet, Schaltungsbilder, KEINE Wertetabellen
+ 3.1.3 Verstärker: -
+ 3.1.4 Gesamte Schaltung: -
+TeX_Vorlage_14.4._1_J
+ 3.1 Simulation der Schaltung: überarbeitet
+ 3.1.1 Spannungsversorgung: überarbeitet
+ 3.1.2 Wheatstonebrücke: überarbeitet, Schaltungsbilder, Wertetabellen nicht aktuell [2,5V]
+ [Impedanzwandler muss noch rein]
+ 3.1.3 Verstärker: -
+ 3.1.4 Gesamte Schaltung: -
+TeX_Vorlage_14.4._2_J 
+ 3.1 Simulation der Schaltung: überarbeitet
+ 3.1.1 Spannungsversorgung: überarbeitet
+ 3.1.2 Wheatstonebrücke: überarbeitet, Schaltungsbilder, Wertetabellen nicht aktuell [2,5V]
+ [Impedanzwandler muss noch rein]
+ 3.1.3 Verstärker: -
+ 3.1.4 Gesamte Schaltung: -
+TeX_Vorlage_14.4._3_J 
+ 3.1 Simulation der Schaltung: überarbeitet
+ 3.1.1 Spannungsversorgung: überarbeitet
+ 3.1.2 Wheatstonebrücke: überarbeitet, Schaltungsbilder, Wertetabellen nicht aktuell [2,5V]
+ [Impedanzwandler muss noch rein]
+ 3.1.3 Verstärker: -
+ 3.1.4 Gesamte Schaltung: -
+TeX_Vorlage_15.4._A 
+ 3.1 Simulation der Schaltung: überarbeitet
+ 3.1.1 Spannungsversorgung: überarbeitet, mit Simulationsgraph
+ 3.1.2 Wheatstonebrücke: überarbeitet, Schaltungsbilder, Wertetabellen aktuell [3V], Bilder von Verstärkungsfaktoren hinzugefügt, aber in falsches kapitel gerutscht
+ [Impedanzwandler muss noch rein]
+ 3.1.3 Verstärker: überarbeitet, Tabellen aus Datenblatt, Simulationsbilder, Wertetabelle aktuell [3V], Bilder aus Datenblatt hinzugefügt, ausführlicherer Text als bei 17.4.
+       Bild "verstärkerschaltung [LTSpice] ist noch grau
+ 3.1.4 Gesamte Schaltung: kurzer Text, unfertig
+TeX_Vorlage_15.4._J -> kaputt, nicht anzeigbar
+TeX_Vorlage_17.4._A 
+ 3.1 Simulation der Schaltung: überarbeitet
+ 3.1.1 Spannungsversorgung: überarbeitet
+ 3.1.2 Wheatstonebrücke: überarbeitet, Schaltungsbilder, Wertetabellen nicht aktuell [2,5V]
+ [Impedanzwandler muss noch rein]
+ 3.1.3 Verstärker: überarbeitet, Tabellen aus Datenblatt, Simulationsbilder, Wertetabelle
+ 3.1.4 Gesamte Schaltung: -
+
+
+Aktueller Stand: alles (?) aktuelle ist in der Version 15.4._A zu finden und auch nochmal in den Ordner 10.5._A kopiert. Wird jetzt unter diesem Namen auf Github hinterlegt
+
+TODOs:
+
+2. Theoretischer Hintergrund
+2.1 - Herstellung / Eigenschaften ausführlicher darstellen -> bachelorarbeit verwenden (?)
+2.1.1 - fertig (?)
+2.1.2 - fertig (?)
+2.1.3 - Störgrößen noch komplett neu machen
+2.2 - erklaren, wie sie aufgebaut ist
+2.2.1. 2.2.2, 2.2.3 theoretisch erklären!
+2.3 theoretisch erklären!
+2.4 Arduino (?)
+
+3. Durchführung fertig machen:
+3.1 - fertig
+3.1.1 - LTSpice mit impedanzwandler erstellen!!!
+3.1.2 - Müsste so bleiben können (nicht alles nochmal durchgelesen) -> Bilder richtig anordnen!! (liegen zu großen teilen im verstärkerkapitel :()
+3.1.3 - Verstärkungsfaktor k ändern zu G?, Verstärkerschaltungsbild in weiße darstellung geändert
+3.1.4 - Gesamt simulation einmal in LTSpice erstellen, auswerten!!!!
+3.2 Steckbrett dokumentieren, Messergebnisse einfügen!!!
+
+4. Auswertung
+4.1 - ??? -> messungen mit der fertigen platine auswerten
+
+
+
+Befehle Sammlung
+\textit{} = kursive Schrift
+\hl{} = gelbe hinterlegung zB für eigene notizen/hinweise
