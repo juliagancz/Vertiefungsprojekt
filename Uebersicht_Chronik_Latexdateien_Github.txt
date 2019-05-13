@@ -105,6 +105,7 @@ Aktueller Stand: alles (?) aktuelle ist in der Version 15.4._A zu finden und auc
 TODOs:
 
 2. Theoretischer Hintergrund
+-> Drucksensoren Unterkapitel einfügen! -> Bachelorarbeit, die Martin uns geschickt hat!!g
 2.1 - Herstellung / Eigenschaften ausführlicher darstellen -> bachelorarbeit verwenden (?)
 2.1.1 - fertig (?)
 2.1.2 - fertig (?)
@@ -115,18 +116,38 @@ TODOs:
 2.4 Arduino (?)
 
 3. Durchführung fertig machen:
+[erklärung der simulation mit transient und zeitschritten allgemeingültig voranstellen?]
+Bilderanordnung in Kapitel 3.1.2/3.1.3!!!
 3.1 - fertig
-3.1.1 - LTSpice mit impedanzwandler erstellen!!!
-3.1.2 - Müsste so bleiben können (nicht alles nochmal durchgelesen) -> Bilder richtig anordnen!! (liegen zu großen teilen im verstärkerkapitel :()
-3.1.3 - Verstärkungsfaktor k ändern zu G?, Verstärkerschaltungsbild in weiße darstellung geändert
+3.1.1 - fertig
+3.1.2 - letzten satz zu V- checken! sonst fertig :)
+3.1.3 - fertig
 3.1.4 - Gesamt simulation einmal in LTSpice erstellen, auswerten!!!!
 3.2 Steckbrett dokumentieren, Messergebnisse einfügen!!!
+-> Bauteilliste eingefügt
+-> Unterkapitel eingefügt, noch nicht bearbeitet
 
 4. Auswertung
 4.1 - ??? -> messungen mit der fertigen platine auswerten
 
 
+13.5.19
+2. Theoretischer Hintergrund
+[2.4 als unterkapitel für 2.1 oder allgemeingültig? -> erstmal infos anlesen zu DMS]
+2.1 - DMS: allgemeine übersicht fertig
+2.1.1 - piezoresistiver effekt: fertig, aber holprig
+muss noch ausführlicher! -> bachelorarbeit (?): leiterbahnen, herstellung (siebdruck, mikrotechnologie)
+2.1.2 - Aufbau DMS noch nicht fertig
+2.2 - Drucksensoren: recherchieren -> bachelorarbeit
+2.3 - Wheatstone: wahrscheinlich fertig -> nochmal durchlesen
+2.4 - Störgrößen: temperatursensibel/kriechen/querempfindlichkeit (?) alles recherchieren!
+2.5 - Spannungsversorgung: zusammenfassung der zusammensetzung/gesamtkonzept (pull down voltage (?))
+2.5.1 - Spannungsteiler: Berechnung der Widerstände für entsprechende Ausgangsspannung
+2.5.2 - Impedanzwandler - Funktion erklären
+2.5.3 - Inverter - Funktion erklären
+2.6 - Verstärker - Funktion erklären
 
 Befehle Sammlung
 \textit{} = kursive Schrift
 \hl{} = gelbe hinterlegung zB für eigene notizen/hinweise
+Quellenverzeichnis vernünftig verlinken (??)
