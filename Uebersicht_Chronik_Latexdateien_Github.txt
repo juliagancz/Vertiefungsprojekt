@@ -137,7 +137,15 @@ Bilderanordnung in Kapitel 3.1.2/3.1.3!!!
 2.1 - DMS: allgemeine übersicht fertig
 2.1.1 - piezoresistiver effekt: fertig, aber holprig
 muss noch ausführlicher! -> bachelorarbeit (?): leiterbahnen, herstellung (siebdruck, mikrotechnologie)
-2.1.2 - Aufbau DMS noch nicht fertig
+2.1.2 - Aufbau DMS
+- herstellung (siebdruck, 3D-Druck) kurz zusammengefasst -> mikrotechnologie? -> widerstandsherstellung oder was ist gemeint?
+- genaue berechnung der leiterbahnen gespart
+-> 3.4.1 (Grundlagen) aus Dissertation einbeziehen
+-> Zitation; imsas arbeitsblatt
+-> Bild einfügen: mäanderförmiger DMS von imsas arbeitsblatt
+-> Bachelorarbeit: 3.1 (Allgemeine Grundzüge zur Größe des Biegebalkens) einbeziehen(?): Bild verwenden
+-> Bild 3.5 aus bachelorarbeit benutzen
+-> charakterisierung der DMS aus bachelorarbeit messergebnissen einbeziehen?
 2.2 - Drucksensoren: recherchieren -> bachelorarbeit
 2.3 - Wheatstone: wahrscheinlich fertig -> nochmal durchlesen
 2.4 - Störgrößen: temperatursensibel/kriechen/querempfindlichkeit (?) alles recherchieren!
@@ -151,3 +159,7 @@ Befehle Sammlung
 \textit{} = kursive Schrift
 \hl{} = gelbe hinterlegung zB für eigene notizen/hinweise
 Quellenverzeichnis vernünftig verlinken (??)
+
+Sonstiges:
+Montieren von DMS zum messen mit bestimmter vorrichtung festschrauben (?) 
+-> siehe kapitel 3.1 (Allgemeine Grundzüge zur Größe des Biegebalkens)
