@@ -134,7 +134,8 @@ Bilderanordnung in Kapitel 3.1.2/3.1.3!!!
 13.5.19
 2. Theoretischer Hintergrund
 [2.4 als unterkapitel für 2.1 oder allgemeingültig? -> erstmal infos anlesen zu DMS]
-2.1 - DMS: allgemeine übersicht fertig
+2.1 - DMS: alles soweit FERTIG außer bilder,...
+-> ist die anwendung hier gut einsortiert oder in anderen abschnitt umziehen? [zitat: wikipedia/DMS]
 2.1.1 - piezoresistiver effekt: fertig, aber holprig
 muss noch ausführlicher! -> bachelorarbeit (?): leiterbahnen, herstellung (siebdruck, mikrotechnologie)
 2.1.2 - Aufbau DMS
@@ -145,8 +146,16 @@ muss noch ausführlicher! -> bachelorarbeit (?): leiterbahnen, herstellung (sieb
 -> Bild einfügen: mäanderförmiger DMS von imsas arbeitsblatt
 -> Bachelorarbeit: 3.1 (Allgemeine Grundzüge zur Größe des Biegebalkens) einbeziehen(?): Bild verwenden
 -> Bild 3.5 aus bachelorarbeit benutzen
+-> Bild 4.4 aus bachelorarbeit benutzen
+-> "additive fertigung" erwähnen? -> zentrale neuigkeit der bachelorarbeit
+2.1.3 Charakterisierung von DMS: Zusammenhang Dehnung/Spannung, Anwendung
 -> charakterisierung der DMS aus bachelorarbeit messergebnissen einbeziehen?
+-> Zitation Bachelorarbeit Kapitel 4.2.1.2.
 2.2 - Drucksensoren: recherchieren -> bachelorarbeit
+-> nochmal drüber gucken wenn alle unterkapitel fertig sind
+-> Formel richtig formatieren
+-> bilder einfügen
+2.2.1 Aufbau und Fertigung der Drucksensoren
 2.3 - Wheatstone: wahrscheinlich fertig -> nochmal durchlesen
 2.4 - Störgrößen: temperatursensibel/kriechen/querempfindlichkeit (?) alles recherchieren!
 2.5 - Spannungsversorgung: zusammenfassung der zusammensetzung/gesamtkonzept (pull down voltage (?))
