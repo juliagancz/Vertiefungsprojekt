@@ -197,6 +197,10 @@ Befehle Sammlung
 Quellenverzeichnis vernünftig verlinken (??)
 \dq...\dq \space: Anführungszeichen: "..." 
 
+TODO:
+- Quellenangaben!!!!
+- 3.2 Steckbrett: Messreihen (siehe oben) einfügen!
+
 Sonstiges:
 Montieren von DMS zum messen mit bestimmter vorrichtung festschrauben (?) 
 -> siehe kapitel 3.1 (Allgemeine Grundzüge zur Größe des Biegebalkens)
