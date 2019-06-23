@@ -131,16 +131,17 @@ Bilderanordnung in Kapitel 3.1.2/3.1.3!!!
 4.1 - ??? -> messungen mit der fertigen platine auswerten
 
 
-30.5.19
+17.6.19
 1. Einleitung
 1.1 Motivation
 "viel mehr uber diese Bachelorarbeit schreiben" -> hier schon?? (wird später erwähnt)
+JA. nochmal mehr über die verwendung von DMS schreiben
 1.2 Aufgabenstellung
 -> aufgabenstellung in den anhang stecken
 2. Theoretischer Hintergrund
 2.1 - DMS: alles soweit FERTIG außer quellen
 -> anwendung ist hier ok gut einsortiert [zitat: wikipedia/DMS]
-2.1.1 - piezoresistiver effekt: fertig, aber holprig
+2.1.1 - piezoresistiver effekt: fertig
 2.1.2 - Aufbau DMS
 - herstellung (siebdruck, 3D-Druck) kurz zusammengefasst -> mikrotechnologie? -> widerstandsherstellung oder was ist gemeint?
 - genaue berechnung der leiterbahnen gespart
@@ -176,13 +177,16 @@ Hysterese: fertig
 3.2 Aufbau Steckbrett
 - messreihen einbauen!
 3.2.1 Spannungsversorgung: 
-- Batterie
-- Impedanzwandler/Inverter: Ein-, Ausgangsspannungen
+- Batterie: fertig
+- Impedanzwandler/Inverter: fertig
 3.2.2 Wheatstonebrücke (Spannungsversorgung mit Netzteil)
-- Dehnung/Stauchung mit verschiedenen DMS/Drucksensoren
+- Dehnung/Stauchung mit verschiedenen DMS -> DMS1 oder DMS2 fehlen (maximale dehnung/stauchung)
 3.2.3 Verstärker (Signalsimulation mit Netzteil)
-- verschiedene Verstärkungsfaktoren testen
+- verschiedene Verstärkungsfaktoren testen: fertig
+- graphen einfügen: fertig
 3.2.4 Gesamte Schaltung: fertig (evtl nur 1 Messtabelle)
+- graphen einfügen: fertig
+- noch nicht ausgewertet
 3.3-3.4: Julias Aktualisierungen übernommen!
 -> Korrektur gelesen (Rechtschreibung,...)
 4. Auswertung
