@@ -131,11 +131,11 @@ Bilderanordnung in Kapitel 3.1.2/3.1.3!!!
 4.1 - ??? -> messungen mit der fertigen platine auswerten
 
 
-17.6.19
+23.6.19
 1. Einleitung
 1.1 Motivation
 "viel mehr uber diese Bachelorarbeit schreiben" -> hier schon?? (wird später erwähnt)
-JA. nochmal mehr über die verwendung von DMS schreiben
+JA. nochmal mehr über die verwendung von DMS schreiben (vgl DMS)
 1.2 Aufgabenstellung
 -> aufgabenstellung in den anhang stecken
 2. Theoretischer Hintergrund
@@ -183,15 +183,18 @@ Hysterese: fertig
 - Dehnung/Stauchung mit verschiedenen DMS -> DMS1 oder DMS2 fehlen (maximale dehnung/stauchung)
 3.2.3 Verstärker (Signalsimulation mit Netzteil)
 - verschiedene Verstärkungsfaktoren testen: fertig
-- graphen einfügen: fertig
+- graphen einfügen: rasterung bei verstärkerungsfaktoren anpassen! [beide bilder verschieden]
 3.2.4 Gesamte Schaltung: fertig (evtl nur 1 Messtabelle)
 - graphen einfügen: fertig
-- noch nicht ausgewertet
+- so lala ausgewertet
 3.3-3.4: Julias Aktualisierungen übernommen!
 -> Korrektur gelesen (Rechtschreibung,...)
 4. Auswertung
 - Messreihen mit Platine?
+-> graphen reinbasteln
+-> noch mehr verstärkungsfaktoren aufnehmen (?)
 5. Fazit
+- ?????????
 Anhang
 - julias anhang übernommen. jetzt ist aber das literaturverzeichnis weiterhin nur 3 einträge lang obwohl bei ihr 9 verweise aufgelistet waren :( ??
 
@@ -203,7 +206,9 @@ Quellenverzeichnis vernünftig verlinken (??)
 
 TODO:
 - Quellenangaben!!!!
-- 3.2 Steckbrett: Messreihen (siehe oben) einfügen!
+- sinnhaftigkeit, vergleichbarkeit aller messreihen/simulationen durchgehen!!!
+- foto von fertiger platine!!!!
+- anzeige !!!!
 
 Sonstiges:
 Montieren von DMS zum messen mit bestimmter vorrichtung festschrauben (?) 
