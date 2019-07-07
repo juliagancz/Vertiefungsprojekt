@@ -131,7 +131,7 @@ Bilderanordnung in Kapitel 3.1.2/3.1.3!!!
 4.1 - ??? -> messungen mit der fertigen platine auswerten
 
 
-03.7.19
+7.7.19
 1. Einleitung
 1.1 Motivation
 "viel mehr uber diese Bachelorarbeit schreiben" -> hier schon?? (wird später erwähnt)
@@ -210,7 +210,7 @@ TODO:
 - sinnhaftigkeit, vergleichbarkeit aller messreihen/simulationen durchgehen!!!
 - foto von fertiger platine -> check
 - anzeige !!!!
-- bilder: quellenangabe! bzw. selber machen
+- bilder: quellenangaben vervollständigt. rest selber zeichnen
 2.1: Q: imsas arbeitsblatt
 2.2: Q: imsas arbeitsblatt
 2.3: löschen, eigenes foto nehmen (Q: BA DMS) -> check
@@ -232,10 +232,19 @@ TODO:
 3.5a: Q: LT1168 Datenblatt S.12
 3.5b: Q:  Q: INA129 Datenblatt S.9
 
-weitere Quellen:
-https://de.wikipedia.org/wiki/Dehnungsmessstreifen
+citavi: 
+passive elektronische bauelemente ?? warum(?)
 
--> quellenliste bei citavi erweitert aber noch nicht eingefügt...
+Quellenangaben:
+2.5.1 spannungsteiler - hagmann
+2.5.2 impedanzwandler - federau, schrüfer
+2.5.3 inverter - federau, biere, schrüfer
+2.6 instrumentenverstärker - schrüfer, ina129
+3.1.3 simulation verstärker - LT1168, ina129
+
+
+
+-> quellenliste bei citavi erweitert und eingefügt...
 -> bilder ausgetauscht
 
 Sonstiges:
