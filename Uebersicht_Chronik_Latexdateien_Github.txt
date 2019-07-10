@@ -242,16 +242,21 @@ Quellenangaben:
 2.6 instrumentenverstärker - schrüfer, ina129
 3.1.3 simulation verstärker - LT1168, ina129
 
-8.7.2019
+10.7.2019
 Sinas Anmerkungen einarbeiten
 1 Einleitung: 
 -1.1 ausführlichere begründung was die arbeit soll - check
 -1.3 Aufbau der Arbeit: zahlen hinzugefügt - check
 2 Theoretischen Hintergrund:
 "allgemeine einleitung" etwas ausführlicher: angefangen
-2.1 DMS überarbeiten!!! -> quellen: schrüfer 3.11 Dehnungsmessstreifen / 
-2.1.1 Piezoresistiven Effekt überarbeiten!!!
--> 2&2.1 überarbeitet, als kopie noch drin. muss noch fertig gestellt werden!!!
+2.1 DMS überarbeiten - check
+- 2.1.1 Piezoresistiven Effekt überarbeiten -> "Widerstandsänderung"
+-> 2.1 &2.1.1 überarbeitet: fertig!
+2.2 Biegebalken überarbeitet
+- 2.2.1 Aufbau überarbeitet
+- 2.2.2 Charatkerisierung überarbeitet ABER: maximale belastung der sensoren aus BA raussuchen!
+2.3 Drucksensoren
+
 
 -> quellenliste bei citavi erweitert und eingefügt...
 -> bilder ausgetauscht
