@@ -255,8 +255,13 @@ Sinas Anmerkungen einarbeiten
 2.2 Biegebalken überarbeitet
 - 2.2.1 Aufbau überarbeitet
 - 2.2.2 Charatkerisierung überarbeitet ABER: maximale belastung der sensoren aus BA raussuchen!
-2.3 Drucksensoren
-
+2.3 Drucksensoren: fast fertig! [Formel formatieren]
+2.3.1 Aufbau Drucksensoren: fertig!
+2.3.2 Charakterisierung: fertig!
+-> 2.4 Wheatstone Kapitel vorziehen als Kapitel 2.2! -> aber nicht überarbeitet!!!
+2.5 Störgrößen: Einleitung fertig!
+- Temperatur: angepasste DMS?
+- Kriechen: Federwirkung? ->nachlesen!!!
 
 -> quellenliste bei citavi erweitert und eingefügt...
 -> bilder ausgetauscht
