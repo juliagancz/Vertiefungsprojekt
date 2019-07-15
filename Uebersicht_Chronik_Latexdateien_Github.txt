@@ -276,8 +276,6 @@ Sinas Anmerkungen einarbeiten
 3.1 Simulation
 - Einleitung: quasi fertig -> bild gesamtschaltung!!!
 3.1.1 Spannungsversorgung: 
-- Simulation startet bei 0 oder 2 s?
-- Datenblatt LM6132 in Quellen aufnehmen, zitieren!!!
 - Simulationsgraphik anders exportieren? -> besser erkennbar mit hellem hintergrund?
 3.1.2 Wheatstone -> noch einiges zu tun [macht hoffentlich julia]
 - haben wir voll, halb oder viertelbrücke??
@@ -285,16 +283,28 @@ Sinas Anmerkungen einarbeiten
 - überschrift bei tabellen über die tabelle (Tabelle 3.1)!
 - Tabelle 3.2 durch graphen ersetzen
 3.1.3 Simulation Verstärker
-- Datenblatt von LT1168 aufnehmen und zitieren!!!
 - tabelle 3.3: übersichtlicher formatieren, graph dazu!!!
 3.1.4 Simulation Gesamte Schaltung
 - kommt die noch???
-3.2
-- Abbildung 3.6: Aufteilung anders: in Spannungsversorgung/Wheatstone/Verstärkung
+3.2 Steckbrett
+Einleitung: fertig
+3.2.1 Spannungsversorgung: fertig
+3.2.2 Wheatstonebrücke
+- tabelle mit max. auslenkung -> brückenspannung auch für drucksensoren eintragen!
+- "quantifizierung" -> kalibrierung? - Nö (?)
+3.2.3 Verstärker
+- graphen: 0 doch vorne einreihen? 
+- sonst fertig!
+3.2.4 Gesamte Schaltung
+[3.3 als Extra Kapitel 4 -> Julia?]
+4 Auswertung
+- graphen: beschriftung korrigieren
 
 -> quellenliste bei citavi erweitert und eingefügt...
 -> bilder ausgetauscht
 
 Sonstiges:
+aus Citavi in Latex exportieren:
+
 Montieren von DMS zum messen mit bestimmter vorrichtung festschrauben (?) 
 -> siehe kapitel 3.1 (Allgemeine Grundzüge zur Größe des Biegebalkens)
