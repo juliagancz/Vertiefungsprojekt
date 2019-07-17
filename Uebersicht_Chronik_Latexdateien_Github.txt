@@ -278,6 +278,7 @@ Sinas Anmerkungen einarbeiten
 3.1.1 Spannungsversorgung: 
 - Simulationsgraphik anders exportieren? -> besser erkennbar mit hellem hintergrund?
 3.1.2 Wheatstone -> noch einiges zu tun [macht hoffentlich julia]
+- Tabelle Eigenwiderstand überarbeiten!!! 3. DMS??
 - haben wir voll, halb oder viertelbrücke??
 - erklärung eigenwiderstand irgendwo in die theorie!
 - überschrift bei tabellen über die tabelle (Tabelle 3.1)!
@@ -290,18 +291,16 @@ Sinas Anmerkungen einarbeiten
 Einleitung: fertig
 3.2.1 Spannungsversorgung: fertig
 3.2.2 Wheatstonebrücke
-- tabelle mit max. auslenkung -> brückenspannung auch für drucksensoren eintragen!
+- tabelle mit max. auslenkung -> brückenspannung auch für drucksensoren eintragen!!!!
 - "quantifizierung" -> kalibrierung? - Nö (?)
 3.2.3 Verstärker
-- graphen: 0 doch vorne einreihen? 
-- sonst fertig!
+- fertig!
 3.2.4 Gesamte Schaltung
-[3.3 als Extra Kapitel 4 -> Julia?]
-4 Auswertung
-- graphen: beschriftung korrigieren
-
--> quellenliste bei citavi erweitert und eingefügt...
--> bilder ausgetauscht
+- fertig!
+4. Herstellung und Fertigung [julia]
+5. Auswertung
+- graphen korrigieren, drucksensoren graphik erstellen
+[julias aktualisierungen aufgenommen]
 
 Sonstiges:
 aus Citavi in Latex exportieren:
