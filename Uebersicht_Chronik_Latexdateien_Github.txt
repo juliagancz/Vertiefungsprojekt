@@ -299,7 +299,7 @@ Einleitung: fertig
 - fertig!
 4. Herstellung und Fertigung [julia]
 5. Auswertung
-- graphen korrigieren, drucksensoren graphik erstellen
+- graphen korrigieren (5kOhm hinzugefügt), drucksensoren graphik erstellen
 [julias aktualisierungen aufgenommen]
 
 Sonstiges:
