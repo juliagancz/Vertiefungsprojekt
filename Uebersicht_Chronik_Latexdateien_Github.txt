@@ -302,6 +302,14 @@ Einleitung: fertig
 - graphen korrigieren (5kOhm hinzugefügt), drucksensoren graphik erstellen
 [julias aktualisierungen aufgenommen]
 
+20.7. alles (fazit, anzeige, anhang) zusammengefügt und hinterlegt im ordner alles_aktualisiert_20.7.
+TODO:
+- kontrast der simulationsbilder anpassen
+- tabelle 3.1 durchgehen
+- julias kapitel korrektur lesen
+- quellen durchgehen
+
+
 Sonstiges:
 aus Citavi in Latex exportieren:
 
